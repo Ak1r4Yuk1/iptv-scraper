@@ -1,0 +1,16 @@
+C:\Users\alexa\source\repos\iptv-scraper\iptv-scraper\bin\Debug\iptv-scraper.exe.config
+C:\Users\alexa\source\repos\iptv-scraper\iptv-scraper\bin\Debug\iptv-scraper.exe
+C:\Users\alexa\source\repos\iptv-scraper\iptv-scraper\bin\Debug\iptv-scraper.pdb
+C:\Users\alexa\source\repos\iptv-scraper\iptv-scraper\bin\Debug\iptv-scraper.xml
+C:\Users\alexa\source\repos\iptv-scraper\iptv-scraper\obj\Debug\iptv-scraper.vbprojAssemblyReference.cache
+C:\Users\alexa\source\repos\iptv-scraper\iptv-scraper\obj\Debug\iptv_scraper.Form1.resources
+C:\Users\alexa\source\repos\iptv-scraper\iptv-scraper\obj\Debug\iptv_scraper.Resources.resources
+C:\Users\alexa\source\repos\iptv-scraper\iptv-scraper\obj\Debug\iptv-scraper.vbproj.GenerateResource.cache
+C:\Users\alexa\source\repos\iptv-scraper\iptv-scraper\obj\Debug\iptv-scraper.vbproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\iptv-scraper\iptv-scraper\obj\Debug\iptv-scraper.exe
+C:\Users\alexa\source\repos\iptv-scraper\iptv-scraper\obj\Debug\iptv-scraper.xml
+C:\Users\alexa\source\repos\iptv-scraper\iptv-scraper\obj\Debug\iptv-scraper.pdb
+C:\Users\alexa\source\repos\iptv-scraper\iptv-scraper\bin\Debug\iptv-scraper.exe.manifest
+C:\Users\alexa\source\repos\iptv-scraper\iptv-scraper\bin\Debug\iptv-scraper.application
+C:\Users\alexa\source\repos\iptv-scraper\iptv-scraper\obj\Debug\iptv-scraper.exe.manifest
+C:\Users\alexa\source\repos\iptv-scraper\iptv-scraper\obj\Debug\iptv-scraper.application
